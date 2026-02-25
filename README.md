@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, soy Jordi 👋
+# Hey, I'm Jordi 👋
 
 **Minecraft Server Developer · Plugin Engineer · Server Network Owner**
 
@@ -11,21 +11,21 @@
 
 ---
 
-## Sobre mí
+## About me
 
-Soy el creador y desarrollador detrás de **[Arefy Network](https://arefy.net)**, una red de servidores Minecraft con múltiples gamemodes, y de **Nekio Setups**, una tienda de configuraciones premium con más de 2,300 ventas y valoración perfecta en BuiltByBit.
+I'm the creator and developer behind **[Arefy Network](https://arefy.net)**, a Minecraft server network with multiple gamemodes, and **Nekio Setups**, a premium setup store with over 2,300 sales and a perfect rating on BuiltByBit.
 
-Me gusta construir las cosas desde cero. Si puedo hacer algo custom en vez de usar una alternativa genérica, lo hago.
+I like building things from scratch. If I can make something custom instead of using a generic alternative, I will.
 
 ---
 
-## 🔨 Lo que hago
+## 🔨 What I do
 
-- **Desarrollo de plugins Java** para Paper API — sistemas de economía, mecánicas de gamemodes, integraciones con PlaceholderAPI y bases de datos
-- **Administración de servidores Linux** — infraestructura en OVH, migraciones, optimización de rendimiento
-- **Gestión de bases de datos** — MySQL, SQLite, scripts de migración y herramientas internas
-- **Desarrollo web** — dashboards, webs para la red y herramientas de gestión
-- **Configuraciones avanzadas** — LuckPerms, WorldGuard, y una larga lista de plugins del ecosistema Minecraft
+- **Java plugin development** for Paper API — economy systems, gamemode mechanics, PlaceholderAPI integrations and database management
+- **Linux server administration** — OVH infrastructure, migrations, performance optimization
+- **Database management** — MySQL, SQLite, migration scripts and internal tooling
+- **Web development** — dashboards, network websites and management tools
+- **Advanced configurations** — LuckPerms, WorldGuard, and a long list of plugins from the Minecraft ecosystem
 
 ---
 
@@ -42,28 +42,28 @@ Me gusta construir las cosas desde cero. Si puedo hacer algo custom en vez de us
 
 ---
 
-## 🚀 Proyectos principales
+## 🚀 Main Projects
 
 ### 🌐 [Arefy Network](https://arefy.net)
-Red de servidores Minecraft con gamemodes propios: **Prison, Skyblock, Survival y Gens**. Toda la infraestructura, plugins y configuraciones están desarrollados internamente.
+Minecraft server network with custom gamemodes: **Prison, Skyblock, Survival and Gens**. All infrastructure, plugins and configurations are developed in-house.
 
 ### 📦 Nekio Setups
-Setups premium de servidores Minecraft vendidos en BuiltByBit.
-- ⭐ **5.0 / 5.0** de valoración
-- 🛒 Más de **2,300 ventas**
-- 🎁 Configuraciones ready-to-deploy para múltiples gamemodes
+Premium Minecraft server setups sold on BuiltByBit.
+- ⭐ **5.0 / 5.0** rating
+- 🛒 Over **2,300 sales**
+- 🎁 Ready-to-deploy configurations for multiple gamemodes
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 - 🌐 [arefy.net](https://arefy.net)
-- 💬 Discord de Arefy: [discord.gg/arefy](https://discord.gg/arefy)
+- 💬 Arefy Discord: [discord.gg/arefy](https://discord.gg/arefy)
 
 ---
 
 <div align="center">
 
-*Si está hecho con calidad, probablemente lo hice yo.*
+*If it's built with quality, I probably made it.*
 
 </div>
