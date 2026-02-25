@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/120x120/1a1a2e/7c3aed?text=A" alt="Arefy Logo" width="120" height="120" style="border-radius: 16px;"/>
+<img src="https://arefy.net/fotos/logo.png" alt="Arefy Logo" width="120" height="120" style="border-radius: 16px;"/>
 
 # Arefy Network
 
