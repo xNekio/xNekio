@@ -5,7 +5,7 @@
 **Minecraft Server Developer · Plugin Engineer · Server Network Owner**
 
 [![Arefy Network](https://img.shields.io/badge/Arefy%20Network-Owner-7c3aed?style=for-the-badge&logo=minecraft&logoColor=white)](https://arefy.net)
-[![BuiltByBit](https://img.shields.io/badge/Nekio%20Setups-2300+%20sales%20⭐5.0-ff6b35?style=for-the-badge)](https://builtbybit.com)
+[![Nekio Setups](https://img.shields.io/badge/Nekio%20Setups-2300+%20sales%20⭐5.0-ff6b35?style=for-the-badge)](https://builtbybit.com/creators/nekio.589/)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm the creator and developer behind **[Arefy Network](https://arefy.net)**, a Minecraft server network with multiple gamemodes, and **Nekio Setups**, a premium setup store with over 2,300 sales and a perfect rating on BuiltByBit.
+I'm the creator and developer behind **[Arefy Network](https://arefy.net)**, a Minecraft server network with multiple gamemodes, and **[Nekio Setups](https://nekiosetups.com)**, a premium setup store with over 2,300 sales and a perfect rating on BuiltByBit.
 
 I like building things from scratch. If I can make something custom instead of using a generic alternative, I will.
 
@@ -25,7 +25,6 @@ I like building things from scratch. If I can make something custom instead of u
 - **Linux server administration** — OVH infrastructure, migrations, performance optimization
 - **Database management** — MySQL, SQLite, migration scripts and internal tooling
 - **Web development** — dashboards, network websites and management tools
-- **Advanced configurations** — LuckPerms, WorldGuard, and a long list of plugins from the Minecraft ecosystem
 
 ---
 
@@ -47,11 +46,15 @@ I like building things from scratch. If I can make something custom instead of u
 ### 🌐 [Arefy Network](https://arefy.net)
 Minecraft server network with custom gamemodes: **Prison, Skyblock, Survival and Gens**. All infrastructure, plugins and configurations are developed in-house.
 
-### 📦 Nekio Setups
-Premium Minecraft server setups sold on BuiltByBit.
+> Browse our open-source plugins and tools at **[github.com/ArefyNetwork](https://github.com/ArefyNetwork)**
+
+### 📦 [Nekio Setups](https://nekiosetups.com)
+Premium Minecraft server setups available on BuiltByBit.
+
 - ⭐ **5.0 / 5.0** rating
 - 🛒 Over **2,300 sales**
 - 🎁 Ready-to-deploy configurations for multiple gamemodes
+- 🔗 Store: [builtbybit.com/creators/nekio.589](https://builtbybit.com/creators/nekio.589/)
 
 ---
 
@@ -59,11 +62,3 @@ Premium Minecraft server setups sold on BuiltByBit.
 
 - 🌐 [arefy.net](https://arefy.net)
 - 💬 Arefy Discord: [discord.gg/arefy](https://discord.gg/arefy)
-
----
-
-<div align="center">
-
-*If it's built with quality, I probably made it.*
-
-</div>
