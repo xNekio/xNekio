@@ -15,8 +15,6 @@
 
 I'm the creator and developer behind **[Arefy Network](https://arefy.net)**, a Minecraft server network with multiple gamemodes, and **[Nekio Setups](https://nekiosetups.com)**, a premium setup store with over 2,300 sales and a perfect rating on BuiltByBit.
 
-I like building things from scratch. If I can make something custom instead of using a generic alternative, I will.
-
 ---
 
 ## 🔨 What I do
