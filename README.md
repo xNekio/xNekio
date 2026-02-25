@@ -1,94 +1,69 @@
 <div align="center">
 
-<img src="https://arefy.net/fotos/logo.png" alt="Arefy Logo" width="120" height="120" style="border-radius: 16px;"/>
+# Hey, soy Jordi 👋
 
-# Arefy Network
+**Minecraft Server Developer · Plugin Engineer · Server Network Owner**
 
-**Premium Minecraft Server Network**
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/arefy)
-[![Website](https://img.shields.io/badge/Website-arefy.net-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arefy.net)
-[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Nekio%20Setups-ff6b35?style=for-the-badge)](https://builtbybit.com)
+[![Arefy Network](https://img.shields.io/badge/Arefy%20Network-Owner-7c3aed?style=for-the-badge&logo=minecraft&logoColor=white)](https://arefy.net)
+[![BuiltByBit](https://img.shields.io/badge/Nekio%20Setups-2300+%20sales%20⭐5.0-ff6b35?style=for-the-badge)](https://builtbybit.com)
 
 </div>
 
 ---
 
-## 🌐 About Arefy Network
+## Sobre mí
 
-Arefy is a **multi-gamemode Minecraft server network** built with performance, quality, and player experience at its core. Every system, plugin, and configuration is developed in-house to deliver a polished, lag-free experience across all gamemodes.
+Soy el creador y desarrollador detrás de **[Arefy Network](https://arefy.net)**, una red de servidores Minecraft con múltiples gamemodes, y de **Nekio Setups**, una tienda de configuraciones premium con más de 2,300 ventas y valoración perfecta en BuiltByBit.
 
-We don't just run servers — we engineer them.
-
----
-
-## 🎮 Gamemodes
-
-| Gamemode | Description |
-|----------|-------------|
-| 🏗️ **Prison** | Grind your way from the mines to freedom with custom enchants and prestige systems |
-| 🌍 **Skyblock** | Build your island empire, automate farms and compete for the top spot |
-| 🌲 **Survival** | Vanilla-enhanced survival with quality-of-life improvements and economy |
-| ⚡ **Gens** | Fast-paced generator-based gameplay with competitive rankings |
+Me gusta construir las cosas desde cero. Si puedo hacer algo custom en vez de usar una alternativa genérica, lo hago.
 
 ---
 
-## 🛠️ What We Build
+## 🔨 Lo que hago
 
-Our repositories include custom-built plugins, tools, and configurations powering the Arefy network:
-
-- **Custom Java Plugins** — Built on Paper API with modern async patterns, SQLite/MySQL persistence, and PlaceholderAPI integration
-- **Server Configurations** — Finely tuned configs for plugins like WorldGuard, LuckPerms, and more
-- **Internal Tools** — Database utilities, migration scripts, and infrastructure tooling
-- **Web Projects** — Network websites and management dashboards
-
----
-
-## 🔧 Tech Stack
-
-```
-Java (Paper API)     →  Plugin Development
-MySQL / SQLite       →  Data Persistence
-Linux / OVH          →  Server Infrastructure
-LuckPerms            →  Permissions Management
-WorldGuard           →  World Protection
-PlaceholderAPI       →  Plugin Integration Layer
-```
+- **Desarrollo de plugins Java** para Paper API — sistemas de economía, mecánicas de gamemodes, integraciones con PlaceholderAPI y bases de datos
+- **Administración de servidores Linux** — infraestructura en OVH, migraciones, optimización de rendimiento
+- **Gestión de bases de datos** — MySQL, SQLite, scripts de migración y herramientas internas
+- **Desarrollo web** — dashboards, webs para la red y herramientas de gestión
+- **Configuraciones avanzadas** — LuckPerms, WorldGuard, y una larga lista de plugins del ecosistema Minecraft
 
 ---
 
-## 📦 Nekio Setups
+## 🧰 Tech Stack
 
-Alongside Arefy Network, we operate **[Nekio Setups](https://builtbybit.com)** — a premium Minecraft server setup store with:
-
-- ⭐ **5.0 / 5.0** rating on BuiltByBit
-- 🛒 **2,300+ sales** across all products
-- 🎁 Ready-to-deploy configurations for Prison, Skyblock, Survival, Gens, and more
-
-If you're building your own Minecraft server, our setups give you a professional head start.
-
----
-
-## 🤝 Contributing
-
-Our repositories are primarily for internal use and reference, but feel free to:
-
-- ⭐ Star repos you find useful
-- 🐛 Open issues for bugs or suggestions
-- 🍴 Fork and adapt configs for your own network (credit appreciated!)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Paper API](https://img.shields.io/badge/Paper%20API-00979D?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📬 Contact
+## 🚀 Proyectos principales
 
-- 🌐 Website: [arefy.net](https://arefy.net)
-- 💬 Discord: [discord.gg/arefy](https://discord.gg/arefy)
-- 🛒 Setups Store: [Nekio Setups on BuiltByBit](https://builtbybit.com)
+### 🌐 [Arefy Network](https://arefy.net)
+Red de servidores Minecraft con gamemodes propios: **Prison, Skyblock, Survival y Gens**. Toda la infraestructura, plugins y configuraciones están desarrollados internamente.
+
+### 📦 Nekio Setups
+Setups premium de servidores Minecraft vendidos en BuiltByBit.
+- ⭐ **5.0 / 5.0** de valoración
+- 🛒 Más de **2,300 ventas**
+- 🎁 Configuraciones ready-to-deploy para múltiples gamemodes
+
+---
+
+## 📬 Contacto
+
+- 🌐 [arefy.net](https://arefy.net)
+- 💬 Discord de Arefy: [discord.gg/arefy](https://discord.gg/arefy)
 
 ---
 
 <div align="center">
 
-*Built with ❤️ by the Arefy team*
+*Si está hecho con calidad, probablemente lo hice yo.*
 
 </div>
